@@ -1,4 +1,4 @@
-# [virtualmonitor](https://iheld.net/?post=149)
+# [Virtual Monitor](https://www.amyuni.com/downloads/usbmmidd_v2.zip)
 Vitual Monitor
 1. 把下载的代码解压缩 %ProgramFiles%\Virtual Monitor
 2. 把里面的快捷方式复制到桌面并执行就可以根据文字提示添加删除虚拟显示了
